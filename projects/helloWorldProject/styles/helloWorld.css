@@ -1,0 +1,54 @@
+#* {
+  border: solid 2px orange;
+    // display: inline;
+}
+
+body {
+background-color: #2ac99f ;
+  font-family: Comic Sans MS;
+  font-size: 16px;
+}
+
+img {
+	
+	height: 55%;
+	width: 55%;
+	border: solid 3px orange; 
+}
+
+#mustangPic {
+  
+  
+}
+
+.allpics {
+  
+  border: solid 5px orange;
+}
+
+.mute-box{
+  padding: 0px;
+  margin: 0px;
+}
+
+#nav-header {
+  background color: #green;
+  height: 50px;
+    width: 200px;
+  border: solid 1px;
+  position: absolute;
+  right: 100px;
+  top: 25px;
+}
+#pic {
+  background color: #green;
+position: absolute;
+  left : 300px;
+  top : 50px;  
+}
+#list {
+  
+  position : absolute;
+  left : 10px;
+    top : 50px;
+}
