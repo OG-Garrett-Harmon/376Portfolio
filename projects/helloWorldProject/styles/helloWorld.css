@@ -17,8 +17,9 @@ background-color: #2ac99f ;
 }
 
 #mustangPic {
-	height : 200px;
-	width : 200px;
+	height : 100%;
+	width : 100%;
+	object-fit : contain;
 }
 
 .allpics {
