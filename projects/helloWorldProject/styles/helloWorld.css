@@ -9,7 +9,7 @@ background-color: #2ac99f ;
   font-size: 16px;
 }
 
-img {
+#img {
 	
 	height: 55%%;
 	width: 55%;
@@ -17,7 +17,8 @@ img {
 }
 
 #mustangPic {
-
+	height : 200px;
+	width : 200px;
 }
 
 .allpics {
