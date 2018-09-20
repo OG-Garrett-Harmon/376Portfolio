@@ -16,7 +16,6 @@ background-color: #2ac99f ;
 #mustangPic {
 	height : 200px;
 	width : 200px;
-	 border: solid 5px orange;
 }
 
 
@@ -25,7 +24,7 @@ background-color: #2ac99f ;
   margin: 0px;
 }
 .allpics {
-	
+border: solid 5px orange;	
 }
 
 #nav-header {
