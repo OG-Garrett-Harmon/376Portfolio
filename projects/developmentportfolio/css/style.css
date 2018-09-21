@@ -1,0 +1,75 @@
+body {
+background-color: #6ed1ef ;
+  font-family: Comic Sans MS;
+  font-size: 16px;
+}
+#aboutme{
+font-family: 'Gochi Hand', cursive;
+}
+
+#big-box {
+  style: flex;
+  flex-direction : column-reverse;
+}
+
+#all {
+	margin-left : 20px;
+	margin-right: 100px;
+}
+
+.lil-box {
+  height : 300px;
+  width : 300px;
+  background-color : #2367c6;
+  color : white;
+  font-weight: bold;
+  border : solid navy 4px;
+  margin : 4px;
+  float: left;
+  display : flex;
+}
+#mustang{
+	height: 100%;
+	width : 100%;
+	object-fit : contain;
+}
+
+
+#header {
+  height : 25px;
+  width : 950px;
+  background-color : yellow;
+  border : solid #d3dd11 3px;
+  color : blue;
+  font-weight: bold;
+  margin : 4px;
+  float: left;
+  display : flex;
+}
+#footer {
+  height : 25px;
+  width : 950px;
+  background-color : yellow;
+  border : solid #d3dd11 3px;
+  color : blue;
+  font-weight: bold;
+  margin : 4px;
+  float: left;
+  display : flex;
+}
+
+#one {
+  height : 502px;
+  width : 935px;  
+}
+#two {
+	font-family: 'Righteous', cursive;
+}
+
+
+#facebook {
+	height : 500px;
+	width : 500px;
+	object-fit : cover;
+	position : right;
+}
