@@ -1,0 +1,88 @@
+#header{
+  margin-left: 15px;
+}
+.Row
+{
+    display: table;
+    width: 100%; /*Optional*/
+    table-layout: fixed; /*Optional*/
+    border-spacing: 10px; /*Optional*/
+  
+}
+.Column
+{
+    display: table-cell;
+    background-color: sky blue; /*Optional*/
+}
+
+.purple-box {
+  height : 100%;
+  width : 95%;
+  
+  color : white;
+  font-weight: bold;
+display : inline-block;
+  padding : 5px;
+  margin : 5px;
+}
+.violet-box {
+  height : 100%;
+  width : 95%;
+  color : white;
+  font-weight: bold;
+display : inline-block;
+  padding : 5px;
+  margin : 5px;
+}
+
+.btn-primary:focus {
+    background-color: #8064A2;
+    border-color: #8064A2;
+}
+.btn-primary {
+    background-color: #9b42f4 !important;
+    border-color: #8064A2;
+}
+
+.btn-default {
+background-color: #f4c141 !important;
+}
+#four{
+   margin-left: 25px;
+}
+#nine{
+   margin-left: 25px;
+}
+#fifteen{
+   position: absolute;
+    left: 510px;
+   margin-right: 50px;
+}
+#console-box{
+  position:absolute;
+  top:578px; 
+  right:158px;
+  height:400px;
+  width:300px;
+  background-color:#000;
+  color: #55ff55;
+  font-family: monospace;
+  padding:6px; 
+}
+.form-group{
+  padding : 5px;
+  margin : 15px;
+  width: 30%;
+}
+#purple{
+  height: 65px;
+  width: 100%;
+  background-color: #452072;
+}
+#lion {
+  height : 100%;
+  width: 100%;
+}
+#header a {
+ color : #9b42f4;
+}
